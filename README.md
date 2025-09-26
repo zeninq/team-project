@@ -1,1 +1,1 @@
-Line to conflict: edited by Account B
+Line to conflict: edited by Account A and Account B
